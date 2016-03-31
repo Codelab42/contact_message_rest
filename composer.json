@@ -1,0 +1,8 @@
+{
+  "name": "drupal/contact_message_rest",
+  "description": "This module allows you to send Drupal contact form messages through REST.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": { }
+}
